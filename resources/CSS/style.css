@@ -1,1 +1,63 @@
 "css" 
+
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+.main-title {
+  font-size: 50px;
+  font-weight: normal;
+  margin-top: 40px;
+}
+
+.download-link a {
+  color: aquamarine;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.download-link {
+  margin: 20px 0;
+}
+
+/* PHONE VIDEO */
+.phone-container video {
+  width: 300px;
+  margin: 20px 0 40px 0;
+  border-radius: 20px;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  margin-top: 40px;
+}
+
+.subtext {
+  color: gray;
+  font-size: 21px;
+  margin-bottom: 20px;
+}
+
+.feature-img {
+  width: 80%;
+  max-width: 900px;
+  margin: 20px 0 40px 0;
+}
+
+.icon img {
+  width: 50px;
+  margin-top: 20px;
+}
+
+footer {
+  text-align: right;
+  color: gray;
+  padding: 20px;
+  font-size: 14px;
+}
